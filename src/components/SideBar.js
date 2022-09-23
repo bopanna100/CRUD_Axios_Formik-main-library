@@ -25,7 +25,7 @@ function SideBar() {
                     <Link to="/ProductAndauthors">
                         <a class="nav-link" href="index.html">
                             <i class="fas fa-fw fa-tachometer-alt"></i>
-                            <span>Sale List</span>
+                            <span>Book List</span>
                         </a>
                     </Link>
                 </li>
